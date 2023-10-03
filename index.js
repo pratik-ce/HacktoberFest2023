@@ -1,3 +1,2 @@
 console.log("Hello contributor");
-
-// let's celebrate hecktober
+// let's celebrate hecktoberFest

@@ -1,2 +1,2 @@
 
-console.log("JD")
+console.log("JD");

@@ -6,6 +6,3 @@
 - Bhavya
 - jazz
 - gemaverse
-- SBhavya
-- Sbhvyaa
-- bhavya1999
